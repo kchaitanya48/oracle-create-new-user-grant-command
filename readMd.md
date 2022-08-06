@@ -14,6 +14,8 @@ grant connect to KC identified by KC;
 
 grant all PRIVILEGES to KC identified by KC;
 
+drop user KC CASCADE;
+
 https://www.youtube.com/watch?v=amIBCgFUnzg
 
 
