@@ -1,6 +1,10 @@
 
 https://blogs.oracle.com/sql/post/how-to-create-users-grant-them-privileges-and-remove-them-in-oracle-database
 
+issue 1: Invalid common user or role name
+alter session set "_ORACLE_SCRIPT"=true;
+For more information, see: http://www.dba-oracle.com/t_ora_65096_create_user_12c_without_c_prefix.htm
+
 # oracle-create-new-user-grant-command
 
 create table Employee_M
