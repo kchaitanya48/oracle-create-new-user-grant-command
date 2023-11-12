@@ -1,3 +1,6 @@
+
+https://blogs.oracle.com/sql/post/how-to-create-users-grant-them-privileges-and-remove-them-in-oracle-database
+
 # oracle-create-new-user-grant-command
 
 create table Employee_M
